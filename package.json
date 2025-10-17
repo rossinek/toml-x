@@ -1,5 +1,5 @@
 {
-  "name": "tomlx",
+  "name": "toml-x",
   "version": "0.1.1",
   "description": "CLI tool and library to merge TOML files with deep merge strategy",
   "type": "module",
@@ -12,7 +12,7 @@
     }
   },
   "bin": {
-    "tomlx": "./dist/cli.js"
+    "toml-x": "dist/cli.js"
   },
   "files": [
     "dist"
