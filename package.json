@@ -32,8 +32,8 @@
     "config",
     "configuration"
   ],
-  "author": "",
-  "license": "ISC",
+  "author": "Artur Rosa <dev@arturrosa.pl>",
+  "license": "MIT",
   "packageManager": "pnpm@10.16.1",
   "dependencies": {
     "defu": "^6.1.4",
