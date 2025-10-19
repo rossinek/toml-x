@@ -128,4 +128,4 @@ pnpm test:run
 
 ## License
 
-ISC
+MIT
